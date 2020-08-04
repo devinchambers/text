@@ -26,7 +26,7 @@ function preload() {
 }
 
 function setup() {
-  createCanvas(1366, 768);
+  createCanvas(2560, 1440);
   background(255);
  textSize(20);
 text('Click me', 600, 760);
